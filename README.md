@@ -2,3 +2,4 @@
 This python script is designed to take in a csv file with postal codes and ensure they follow standard canadian postal code format.
 
 
+This project was designed to assist a friend who conducts an event review of ticket sales for a local business. The postal codes are input manually by users, which naturally introduces the opportunity for error. Each year, my friend would go through the excel document line by line to correct invalid postal codes. My intent in creating this project would be to take the postal codes as input and run them row by row through a cleaning loop to correct the most common errors and return valid postal codes. Any invalid postal codes which remain would be provided with an error message outlining the issue. This project is being developped in 3 languages: Python, VBA Script, and JavaScript.
